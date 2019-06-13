@@ -1,0 +1,13 @@
+# nuiscance files and folders 
+.DS_Store/
+node_modules/
+
+# notes that can't go to github
+docs/idea/
+
+# private info to protect from client
+.env
+
+# the production build and assets
+static/
+
